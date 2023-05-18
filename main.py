@@ -1,3 +1,17 @@
+# File created by Liam Hare
+
+
+
+'''
+Goals:
+Doodle jump type game
+
+Maybe add enemies to kill the player
+
+'''
+
+
+
 #import libraries
 import pygame
 import random
